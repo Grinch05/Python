@@ -1,6 +1,6 @@
 import turtle
 turtle.shape("turtle")
-turtle.speed(2)
+turtle.speed(5)
 
 color = input("введите цвет")
 turtle.color(color)
